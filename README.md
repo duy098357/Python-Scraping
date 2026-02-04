@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/github/v/release/duy098357/Python-Scraping?label=release)](https://github.com/duy098357/Python-Scraping/releases/latest) [![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen)](https://www.python.org/) [![License](https://img.shields.io/github/license/duy098357/Python-Scraping)](https://github.com/duy098357/Python-Scraping/blob/main/LICENSE)
+
 # Product Catalogue Updater with Image Scraper
 
 A Python tool to refresh your product catalogue by matching items from Excel to your existing CSV, updating prices, sourcing product images, and managing product status.
