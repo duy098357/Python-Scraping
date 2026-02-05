@@ -1,0 +1,1166 @@
+2026-02-04 23:34:24,886 - INFO - ======================================================================
+2026-02-04 23:34:24,886 - INFO - Starting Product Catalogue Update Process (CSV Output)
+2026-02-04 23:34:24,887 - INFO - ======================================================================
+2026-02-04 23:34:27,122 - INFO - Loaded CSV as Excel with 3648 products
+2026-02-04 23:34:27,224 - INFO - Loaded Excel with 277 products
+2026-02-04 23:34:27,225 - INFO - 
+CSV Columns: ['Product ID', 'Product Name', 'Product Reference Code', 'Active', 'Short Description', 'Description', 'Tags', 'Final Price Without Tax', 'Final Price With Tax', 'Meta Keywords', 'Quantity Physical', 'Product Image Urls', 'Product Cover Image Url', 'Manufacturer Name']
+2026-02-04 23:34:27,226 - INFO - Excel Columns: ['BRAND', 'Product Name', 'Product Reference Code', 'Short Description', 'Description', 'Price']
+
+2026-02-04 23:34:27,453 - INFO - [  1/277] Ref: CS-C18MFH / CU-C18MFH          | Desc: 2HP, Air Swing, Copper Condens
+2026-02-04 23:34:27,849 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:27,851 - INFO -   > Deactivated 268 other products from brand Panasonic
+2026-02-04 23:34:27,851 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:27,852 - INFO - [  2/277] Ref: CS-C28MFH / CU-C28MFH          | Desc: 3HP, Air Swing, Copper Condens
+2026-02-04 23:34:28,198 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:28,200 - INFO -   > Deactivated 269 other products from brand Panasonic
+2026-02-04 23:34:28,200 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:28,201 - INFO - [  3/277] Ref: CS-C45MFH8 / CU-C45MFH8        | Desc: 5HP, Air Swing, Copper Condens
+2026-02-04 23:34:28,600 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:28,601 - INFO -   > Deactivated 270 other products from brand Panasonic
+2026-02-04 23:34:28,602 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:28,602 - INFO - [  4/277] Ref: S-21PB3H5 / U-21PRB1H5         | Desc: 2HP, Inverter, R32, 4 Way Adju
+2026-02-04 23:34:28,968 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:28,970 - INFO -   > Deactivated 271 other products from brand Panasonic
+2026-02-04 23:34:28,970 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:28,970 - INFO - [  5/277] Ref: S-24PB3H5 / U-24PRB1H5         | Desc: 2.5HP, Inverter, R32, 4 Way Ad
+2026-02-04 23:34:29,320 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:29,322 - INFO -   > Deactivated 272 other products from brand Panasonic
+2026-02-04 23:34:29,322 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:29,322 - INFO - [  6/277] Ref: S-48PB3H5 / U-48PSB3H5         | Desc: 5HP, R410A, Inverter, 4 Way Ad
+2026-02-04 23:34:29,667 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:29,668 - INFO -   > Deactivated 273 other products from brand Panasonic
+2026-02-04 23:34:29,669 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:29,669 - INFO - [  7/277] Ref: 34DD2H5                        | Desc: 4HP, Ducted, Powerful Cooling,
+2026-02-04 23:34:30,001 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:30,003 - INFO -   > Deactivated 274 other products from brand Panasonic
+2026-02-04 23:34:30,003 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:30,003 - INFO - [  8/277] Ref: S-100PBY1H52 / U-100PWY1H82    | Desc: 10HP Floor Standing AC, R410 G
+2026-02-04 23:34:30,355 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:30,357 - INFO -   > Deactivated 275 other products from brand Panasonic
+2026-02-04 23:34:30,358 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:30,358 - INFO - [  9/277] Ref: S-1821PU3H / U-21PR1H5 / CZ-KP | Desc: 2HP  Inverter, R32, 360° Comfo
+2026-02-04 23:34:30,713 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:30,715 - INFO -   > Deactivated 276 other products from brand Panasonic
+2026-02-04 23:34:30,715 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:30,716 - INFO - [ 10/277] Ref: S-2430PU3H / U-24PR1H5 / CZ-KP | Desc: 2.5HP  Inverter, R32, 360° Com
+2026-02-04 23:34:31,073 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:31,075 - INFO -   > Deactivated 277 other products from brand Panasonic
+2026-02-04 23:34:31,075 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:31,075 - INFO - [ 11/277] Ref: S-2430PU3H / U-30PR1H5 / CZ-KP | Desc: 3HP  Inverter, R32, 360° Comfo
+2026-02-04 23:34:31,428 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:31,430 - INFO -   > Deactivated 278 other products from brand Panasonic
+2026-02-04 23:34:31,430 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:31,431 - INFO - [ 12/277] Ref: S-3448PU3H / U-43PR1H5 / CZ-KP | Desc: 4HP  Inverter, R32, 360° Comfo
+2026-02-04 23:34:31,774 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:31,776 - INFO -   > Deactivated 279 other products from brand Panasonic
+2026-02-04 23:34:31,776 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:31,777 - INFO - [ 13/277] Ref: S-3448PU3H / U-48PR1H5 / CZ-KP | Desc: 5HP  Inverter, R32, 360° Comfo
+2026-02-04 23:34:32,129 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:32,131 - INFO -   > Deactivated 280 other products from brand Panasonic
+2026-02-04 23:34:32,131 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:32,132 - INFO - [ 14/277] Ref: S-1821PF3H/U-21PR1H5/CZ-RTC4   | Desc: 2HP  Inverter, R32, Ceiling Co
+2026-02-04 23:34:32,467 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:32,469 - INFO -   > Deactivated 281 other products from brand Panasonic
+2026-02-04 23:34:32,469 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:32,469 - INFO - [ 15/277] Ref: S-2430PF3H/U-24PR1H5/CZ-RTC4   | Desc: 2.5HP  Inverter, R32, Ceiling 
+2026-02-04 23:34:32,802 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:32,804 - INFO -   > Deactivated 282 other products from brand Panasonic
+2026-02-04 23:34:32,804 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:32,804 - INFO - [ 16/277] Ref: S-2430PF3H/U-30PR1H5/CZ-RTC4   | Desc: 3HP  Inverter, R32, Ceiling Co
+2026-02-04 23:34:33,134 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:33,135 - INFO -   > Deactivated 283 other products from brand Panasonic
+2026-02-04 23:34:33,135 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:33,136 - INFO - [ 17/277] Ref: S-3448PF3H/U-34PR1H5/CZ-RTC4   | Desc: 3.5HP  Inverter, R32, Ceiling 
+2026-02-04 23:34:33,469 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:33,471 - INFO -   > Deactivated 284 other products from brand Panasonic
+2026-02-04 23:34:33,471 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:33,472 - INFO - [ 18/277] Ref: S-3448PF3H/U-43PR1H5/CZ-RTC4   | Desc: 4HP  Inverter, R32, Ceiling Co
+2026-02-04 23:34:33,809 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:33,811 - INFO -   > Deactivated 285 other products from brand Panasonic
+2026-02-04 23:34:33,811 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:33,812 - INFO - [ 19/277] Ref: S-3448PF3H/U-48PR1H5/CZ-RTC4   | Desc: 5HP  Inverter, R32, Ceiling Co
+2026-02-04 23:34:34,144 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:34,146 - INFO -   > Deactivated 286 other products from brand Panasonic
+2026-02-04 23:34:34,146 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:34,146 - INFO - [ 20/277] Ref: CS-RU9AKD-31 / CU-RU9AKD-31    | Desc: 1HP  Inverter, R32, PM 2.5 Dus
+2026-02-04 23:34:34,503 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:34,505 - INFO -   > Deactivated 287 other products from brand Panasonic
+2026-02-04 23:34:34,505 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:34,506 - INFO - [ 21/277] Ref: CS-RU12AKD-31 / CU-RU12AKD-31  | Desc: 1.5HP  Inverter, R32, PM 2.5 D
+2026-02-04 23:34:34,857 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:34,858 - INFO -   > Deactivated 288 other products from brand Panasonic
+2026-02-04 23:34:34,858 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:34,859 - INFO - [ 22/277] Ref: CS-RU18AKD-31 / CU-RU18AKD-31  | Desc: 2HP  Inverter, R32, PM 2.5 Dus
+2026-02-04 23:34:35,202 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:35,204 - INFO -   > Deactivated 289 other products from brand Panasonic
+2026-02-04 23:34:35,204 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:35,205 - INFO - [ 23/277] Ref: CS-RN9AKD-31 / CU-RN9AKD-31    | Desc: 1HP  Powerful Mode, Faster & E
+2026-02-04 23:34:35,574 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:35,576 - INFO -   > Deactivated 290 other products from brand Panasonic
+2026-02-04 23:34:35,576 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:35,576 - INFO - [ 24/277] Ref: CS-RN12AKD-31 / CU-RN12AKD-31  | Desc: 1.5HP  Powerful Mode, Faster &
+2026-02-04 23:34:35,934 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:35,936 - INFO -   > Deactivated 291 other products from brand Panasonic
+2026-02-04 23:34:35,936 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:35,937 - INFO - [ 25/277] Ref: CS-RN18AKD-31 / CU-RN18AKD-31  | Desc: 2HP  Powerful Mode, Faster & E
+2026-02-04 23:34:36,300 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:36,302 - INFO -   > Deactivated 292 other products from brand Panasonic
+2026-02-04 23:34:36,302 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:36,303 - INFO - [ 26/277] Ref: CS-YS9UKA / CU-YS9UKA          | Desc: 1HP  Inverter, R410A, Shower C
+2026-02-04 23:34:36,649 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:36,651 - INFO -   > Deactivated 293 other products from brand Panasonic
+2026-02-04 23:34:36,651 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:36,651 - INFO - [ 27/277] Ref: CS-YS12UKA / CU-YS12UKA        | Desc: 1.5HP  Inverter, R410A, Shower
+2026-02-04 23:34:37,005 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:37,007 - INFO -   > Deactivated 294 other products from brand Panasonic
+2026-02-04 23:34:37,007 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:37,007 - INFO - [ 28/277] Ref: CS-YS18UKA / CU-YS18UKA        | Desc: 2HP  Inverter, R410A, Shower C
+2026-02-04 23:34:37,351 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:37,353 - INFO -   > Deactivated 295 other products from brand Panasonic
+2026-02-04 23:34:37,353 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:37,354 - INFO - [ 29/277] Ref: CS-YN9XKD-3 / CU-YN9XKD-3      | Desc: 1HP  R32, 18% Faster Cooling  
+2026-02-04 23:34:37,691 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:37,692 - INFO -   > Deactivated 296 other products from brand Panasonic
+2026-02-04 23:34:37,692 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:37,693 - INFO - [ 30/277] Ref: CS-YN12XKD-3 / CU-YN12XKD-3    | Desc: 1.5HP  R32, 18% Faster Cooling
+2026-02-04 23:34:38,041 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:38,043 - INFO -   > Deactivated 297 other products from brand Panasonic
+2026-02-04 23:34:38,043 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:38,043 - INFO - [ 31/277] Ref: CS-YN18XKD-3 / CU-YN18XKD-3    | Desc: 2HP  R32, 18% Faster Cooling  
+2026-02-04 23:34:38,392 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:38,394 - INFO -   > Deactivated 298 other products from brand Panasonic
+2026-02-04 23:34:38,394 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:38,395 - INFO - [ 32/277] Ref: CS-KN9XKD-3 / CU-KN9XKD-3      | Desc: 1HP  R32, Auto Restart, Built 
+2026-02-04 23:34:38,739 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:38,741 - INFO -   > Deactivated 299 other products from brand Panasonic
+2026-02-04 23:34:38,741 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:38,741 - INFO - [ 33/277] Ref: CS-KN12XKD-3 / CU-KN12XKD-3    | Desc: 1.5HP  R32, Auto Restart, Buil
+2026-02-04 23:34:39,092 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:39,094 - INFO -   > Deactivated 300 other products from brand Panasonic
+2026-02-04 23:34:39,094 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:39,095 - INFO - [ 34/277] Ref: CS-KN18XKD-3 / CU-KN18XKD-3    | Desc: 2HP  R32, Auto Restart, Built 
+2026-02-04 23:34:39,440 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:39,442 - INFO -   > Deactivated 301 other products from brand Panasonic
+2026-02-04 23:34:39,442 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:39,442 - INFO - [ 35/277] Ref: CS-U9XKD-3 / CU-U9XKD-3        | Desc: 1HP  Inverter, R32, Nanoe X, H
+2026-02-04 23:34:39,789 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:39,791 - INFO -   > Deactivated 302 other products from brand Panasonic
+2026-02-04 23:34:39,791 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:39,791 - INFO - [ 36/277] Ref: CS-U12XKD-3 / CU-U12XKD-3      | Desc: 1.5HP  Inverter, R32, Nanoe X,
+2026-02-04 23:34:40,138 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:40,140 - INFO -   > Deactivated 303 other products from brand Panasonic
+2026-02-04 23:34:40,140 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:40,140 - INFO - [ 37/277] Ref: CS-U18XKD-3 / CU-U18XKD-3      | Desc: 2HP  Inverter, R32, Nanoe X, H
+2026-02-04 23:34:40,480 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:40,482 - INFO -   > Deactivated 304 other products from brand Panasonic
+2026-02-04 23:34:40,482 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:40,483 - INFO - [ 38/277] Ref: TH-100NX900M                   | Desc: 100 4K HDR Smart Full Array LE
+2026-02-04 23:34:40,840 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:40,842 - INFO -   > Deactivated 305 other products from brand Panasonic
+2026-02-04 23:34:40,842 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:40,842 - INFO - [ 39/277] Ref: TH-86NX900M                    | Desc: 86 4K HDR Smart Full Array LED
+2026-02-04 23:34:41,216 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:41,218 - INFO -   > Deactivated 306 other products from brand Panasonic
+2026-02-04 23:34:41,218 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:41,219 - INFO - [ 40/277] Ref: TH-75NX900M                    | Desc: 75 4K HDR Smart Full Array LED
+2026-02-04 23:34:41,600 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:41,602 - INFO -   > Deactivated 307 other products from brand Panasonic
+2026-02-04 23:34:41,602 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:41,602 - INFO - [ 41/277] Ref: TH-65NX900M                    | Desc: 65 4K HDR Smart Full Array LED
+2026-02-04 23:34:41,959 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:41,961 - INFO -   > Deactivated 308 other products from brand Panasonic
+2026-02-04 23:34:41,961 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:41,961 - INFO - [ 42/277] Ref: TH-55NX900M                    | Desc: 55 4K HDR Smart Full Array LED
+2026-02-04 23:34:42,318 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:42,319 - INFO -   > Deactivated 309 other products from brand Panasonic
+2026-02-04 23:34:42,320 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:42,320 - INFO - [ 43/277] Ref: TH-55MX740M (GOOGLE TV)        | Desc: 55” Smart Google TV  4K Resolu
+2026-02-04 23:34:42,661 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:42,662 - INFO -   > Deactivated 310 other products from brand Panasonic
+2026-02-04 23:34:42,663 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:42,663 - INFO - [ 44/277] Ref: TH-65MX740M (GOOGLE TV)        | Desc: 65” Smart Google TV  4K Resolu
+2026-02-04 23:34:43,009 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:43,011 - INFO -   > Deactivated 311 other products from brand Panasonic
+2026-02-04 23:34:43,011 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:43,011 - INFO - [ 45/277] Ref: TH-75MX740M (GOOGLE TV)        | Desc: 75” Smart Google TV  4K Resolu
+2026-02-04 23:34:43,363 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:43,365 - INFO -   > Deactivated 312 other products from brand Panasonic
+2026-02-04 23:34:43,365 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:43,365 - INFO - [ 46/277] Ref: MX-CP3111                      | Desc: 1.45L Blender  450W, with Dry 
+2026-02-04 23:34:43,715 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:43,716 - INFO -   > Deactivated 313 other products from brand Panasonic
+2026-02-04 23:34:43,717 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:43,717 - INFO - [ 47/277] Ref: MX-CP3121                      | Desc: 1.45L Blender  450W, Additiona
+2026-02-04 23:34:44,069 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:44,071 - INFO -   > Deactivated 314 other products from brand Panasonic
+2026-02-04 23:34:44,071 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:44,071 - INFO - [ 48/277] Ref: MX-EP5121                      | Desc: 1.5L Blender  450W, with 2 Dry
+2026-02-04 23:34:44,428 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:44,430 - INFO -   > Deactivated 315 other products from brand Panasonic
+2026-02-04 23:34:44,430 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:44,430 - INFO - [ 49/277] Ref: MX-MG5321                      | Desc: 700W Glass Jug Blender  Durabl
+2026-02-04 23:34:44,776 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:44,778 - INFO -   > Deactivated 316 other products from brand Panasonic
+2026-02-04 23:34:44,778 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:44,778 - INFO - [ 50/277] Ref: MX-MG5421                      | Desc: 800W Glass Jug Blender  Durabl
+2026-02-04 23:34:45,118 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:45,120 - INFO -   > Deactivated 317 other products from brand Panasonic
+2026-02-04 23:34:45,120 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:45,121 - INFO - [ 51/277] Ref: NC-K101                        | Desc: Electric Kettle  LED Indicator
+2026-02-04 23:34:45,460 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:45,462 - INFO -   > Deactivated 318 other products from brand Panasonic
+2026-02-04 23:34:45,462 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:45,463 - INFO - [ 52/277] Ref: NC-K301                        | Desc: Electric Kettle  Stainless Ste
+2026-02-04 23:34:45,806 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:45,808 - INFO -   > Deactivated 319 other products from brand Panasonic
+2026-02-04 23:34:45,808 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:45,808 - INFO - [ 53/277] Ref: NF-CC600AUA                    | Desc: Air Fryer  Steam, Dual-Core Th
+2026-02-04 23:34:46,286 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:46,288 - INFO -   > Deactivated 320 other products from brand Panasonic
+2026-02-04 23:34:46,288 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:46,288 - INFO - [ 54/277] Ref: MX-AC210                       | Desc: Mixer Grinder  1000W, 2 Stainl
+2026-02-04 23:34:46,304 - INFO -   > Exact match found by reference: MX-AC210
+2026-02-04 23:34:46,306 - INFO -   > Deactivated 319 other products from brand Panasonic
+2026-02-04 23:34:46,306 - INFO -   >> UPDATE: Product updated
+2026-02-04 23:34:46,307 - INFO - [ 55/277] Ref: MX-AC300                       | Desc: Mixer Grinder  1000W, 2 Stainl
+2026-02-04 23:34:46,324 - INFO -   > Exact match found by reference: MX-AC300
+2026-02-04 23:34:46,326 - INFO -   > Deactivated 318 other products from brand Panasonic
+2026-02-04 23:34:46,327 - INFO -   >> UPDATE: Product updated
+2026-02-04 23:34:46,327 - INFO - [ 56/277] Ref: MX-AC400                       | Desc: Super Mixer Grinder  1000W, 3 
+2026-02-04 23:34:46,345 - INFO -   > Exact match found by reference: MX-AC400
+2026-02-04 23:34:46,347 - INFO -   > Deactivated 319 other products from brand Panasonic
+2026-02-04 23:34:46,347 - INFO -   >> UPDATE: Product updated
+2026-02-04 23:34:46,347 - INFO - [ 57/277] Ref: MX-AE365KTZ                    | Desc: Powerful 2000W motor  Flexi Ja
+2026-02-04 23:34:46,702 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:46,704 - INFO -   > Deactivated 321 other products from brand Panasonic
+2026-02-04 23:34:46,704 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:46,704 - INFO - [ 58/277] Ref: MX-AC555                       | Desc: Super Mixer Grinder  1000W, 4 
+2026-02-04 23:34:47,058 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:47,060 - INFO -   > Deactivated 322 other products from brand Panasonic
+2026-02-04 23:34:47,060 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:47,060 - INFO - [ 59/277] Ref: F-407W                         | Desc: Stand Fan  3-Speed and Off by 
+2026-02-04 23:34:47,078 - INFO -   > Exact match found by reference: F-407W
+2026-02-04 23:34:47,080 - INFO -   > Deactivated 321 other products from brand Panasonic
+2026-02-04 23:34:47,081 - INFO -   >> UPDATE: Product updated
+2026-02-04 23:34:47,081 - INFO - [ 60/277] Ref: F-407X                         | Desc: Stand Fan  3-Speed and Off by 
+2026-02-04 23:34:47,098 - INFO -   > Exact match found by reference: F-407X
+2026-02-04 23:34:47,100 - INFO -   > Deactivated 321 other products from brand Panasonic
+2026-02-04 23:34:47,100 - INFO -   >> UPDATE: Product updated
+2026-02-04 23:34:47,101 - INFO - [ 61/277] Ref: F-407Y                         | Desc: Stand Fan  3-Speed and Off by 
+2026-02-04 23:34:47,118 - INFO -   > Exact match found by reference: F-407Y
+2026-02-04 23:34:47,120 - INFO -   > Deactivated 321 other products from brand Panasonic
+2026-02-04 23:34:47,120 - INFO -   >> UPDATE: Product updated
+2026-02-04 23:34:47,120 - INFO - [ 62/277] Ref: F-409U                         | Desc: Wall Fan  3-Speed and off by P
+2026-02-04 23:34:47,465 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:47,467 - INFO -   > Deactivated 323 other products from brand Panasonic
+2026-02-04 23:34:47,467 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:47,467 - INFO - [ 63/277] Ref: F-56XZ2                        | Desc: Ceiling Fan  56 Inch, Fall Pre
+2026-02-04 23:34:47,812 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:47,814 - INFO -   > Deactivated 324 other products from brand Panasonic
+2026-02-04 23:34:47,814 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:47,814 - INFO - [ 64/277] Ref: F-56TZ5                        | Desc: Ceiling Fan  56 Inch, Fall Pre
+2026-02-04 23:34:47,885 - INFO -   > Exact match found by reference: F-56TZ5
+2026-02-04 23:34:47,887 - INFO -   > Deactivated 323 other products from brand Panasonic
+2026-02-04 23:34:47,887 - INFO -   >> UPDATE: Product updated
+2026-02-04 23:34:47,887 - INFO - [ 65/277] Ref: NN-SM33HW                      | Desc: 25L Solo Microwave Oven  800W 
+2026-02-04 23:34:48,237 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:48,238 - INFO -   > Deactivated 325 other products from brand Panasonic
+2026-02-04 23:34:48,239 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:48,239 - INFO - [ 66/277] Ref: NN-ST34HM                      | Desc: 25L Solo Microwave Oven  800W 
+2026-02-04 23:34:48,630 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:48,632 - INFO -   > Deactivated 326 other products from brand Panasonic
+2026-02-04 23:34:48,632 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:48,632 - INFO - [ 67/277] Ref: NN-CT65MMKPQ                   | Desc: 4-in-1 Convection Microwave Ov
+2026-02-04 23:34:49,023 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:49,025 - INFO -   > Deactivated 327 other products from brand Panasonic
+2026-02-04 23:34:49,025 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:49,025 - INFO - [ 68/277] Ref: NN-GD37HBK                     | Desc: 1000W Inverter Microwave & Qua
+2026-02-04 23:34:49,380 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:49,382 - INFO -   > Deactivated 328 other products from brand Panasonic
+2026-02-04 23:34:49,383 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:49,383 - INFO - [ 69/277] Ref: NN-CD67MBKPQ                   | Desc: 1350W Grill Power, 131 Auto Me
+2026-02-04 23:34:49,749 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:49,750 - INFO -   > Deactivated 329 other products from brand Panasonic
+2026-02-04 23:34:49,751 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:49,751 - INFO - [ 70/277] Ref: NN-CD87KSKPQ                   | Desc: 1000W Inverter, 4-in-1 Convect
+2026-02-04 23:34:50,128 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:50,131 - INFO -   > Deactivated 330 other products from brand Panasonic
+2026-02-04 23:34:50,131 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:50,132 - INFO - [ 71/277] Ref: NN-SM255                       | Desc: 20L Solo, 800W Microwave Power
+2026-02-04 23:34:50,484 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:50,486 - INFO -   > Deactivated 331 other products from brand Panasonic
+2026-02-04 23:34:50,486 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:50,486 - INFO - [ 72/277] Ref: NN-ST266                       | Desc: 20L Solo, 800W Microwave Power
+2026-02-04 23:34:50,827 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:50,829 - INFO -   > Deactivated 332 other products from brand Panasonic
+2026-02-04 23:34:50,829 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:50,829 - INFO - [ 73/277] Ref: SDM-WD3128TG                   | Desc: Top Loading, 3 Tap - Hot, Cold
+2026-02-04 23:34:51,179 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:51,181 - INFO -   > Deactivated 333 other products from brand Panasonic
+2026-02-04 23:34:51,182 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:51,182 - INFO - [ 74/277] Ref: SDM-WD3320TG                   | Desc: Top Loading, 3 Tap - Hot, Cold
+2026-02-04 23:34:51,532 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:51,534 - INFO -   > Deactivated 334 other products from brand Panasonic
+2026-02-04 23:34:51,535 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:51,535 - INFO - [ 75/277] Ref: SDM-WD3438BG                   | Desc: Bottom Loading, 3 Tap- Hot, Co
+2026-02-04 23:34:51,880 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:51,883 - INFO -   > Deactivated 335 other products from brand Panasonic
+2026-02-04 23:34:51,883 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:51,883 - INFO - [ 76/277] Ref: SDM-WD3531BG                   | Desc: Dual Touchless, Digital Touch 
+2026-02-04 23:34:52,236 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:52,238 - INFO -   > Deactivated 336 other products from brand Panasonic
+2026-02-04 23:34:52,238 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:52,238 - INFO - [ 77/277] Ref: NA-149G4LAS                    | Desc: Inverter, Front Loading Automa
+2026-02-04 23:34:52,591 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:52,593 - INFO -   > Deactivated 337 other products from brand Panasonic
+2026-02-04 23:34:52,593 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:52,594 - INFO - [ 78/277] Ref: NA-18MG1LAS                    | Desc: Inverter, Front Loading Automa
+2026-02-04 23:34:52,953 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:52,955 - INFO -   > Deactivated 338 other products from brand Panasonic
+2026-02-04 23:34:52,955 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:52,956 - INFO - [ 79/277] Ref: NA-127XB                       | Desc: Front Loading Automatic Washer
+2026-02-04 23:34:53,306 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:53,308 - INFO -   > Deactivated 339 other products from brand Panasonic
+2026-02-04 23:34:53,308 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:53,308 - INFO - [ 80/277] Ref: NA-128XB                       | Desc: Front Loading Automatic Washer
+2026-02-04 23:34:53,651 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:53,653 - INFO -   > Deactivated 340 other products from brand Panasonic
+2026-02-04 23:34:53,653 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:53,654 - INFO - [ 81/277] Ref: NI-M250TGTH                    | Desc: 1550W, Steam Iron, Tough & Smo
+2026-02-04 23:34:54,001 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:54,003 - INFO -   > Deactivated 341 other products from brand Panasonic
+2026-02-04 23:34:54,003 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:54,003 - INFO - [ 82/277] Ref: NI-M250TPTH                    | Desc: 1550W, Steam Iron, Tough & Smo
+2026-02-04 23:34:54,348 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:54,350 - INFO -   > Deactivated 342 other products from brand Panasonic
+2026-02-04 23:34:54,350 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:54,351 - INFO - [ 83/277] Ref: NI-M300TATH                    | Desc: 1800W, Steam Iron, Tough & Smo
+2026-02-04 23:34:54,689 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:54,691 - INFO -   > Deactivated 343 other products from brand Panasonic
+2026-02-04 23:34:54,691 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:54,691 - INFO - [ 84/277] Ref: NI-M300TVTH                    | Desc: 1800W, Steam Iron, Tough & Smo
+2026-02-04 23:34:55,033 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:55,035 - INFO -   > Deactivated 344 other products from brand Panasonic
+2026-02-04 23:34:55,035 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:55,035 - INFO - [ 85/277] Ref: NI-U400CPTH                    | Desc: Steam Iron, Powerful steam up 
+2026-02-04 23:34:55,372 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:55,374 - INFO -   > Deactivated 345 other products from brand Panasonic
+2026-02-04 23:34:55,374 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:55,375 - INFO - [ 86/277] Ref: NI-U550CATH                    | Desc: Steam Iron, Powerful steam up 
+2026-02-04 23:34:55,716 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:55,718 - INFO -   > Deactivated 346 other products from brand Panasonic
+2026-02-04 23:34:55,718 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:55,719 - INFO - [ 87/277] Ref: NI-V100NATT                    | Desc: 1200W Steam Iron              
+2026-02-04 23:34:56,051 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:56,053 - INFO -   > Deactivated 347 other products from brand Panasonic
+2026-02-04 23:34:56,053 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:56,054 - INFO - [ 88/277] Ref: NI-22AWTTH                     | Desc: Dry Heavy Iron, 1000W         
+2026-02-04 23:34:56,394 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:56,396 - INFO -   > Deactivated 348 other products from brand Panasonic
+2026-02-04 23:34:56,396 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:56,397 - INFO - [ 89/277] Ref: NI-317ATH/PTH                  | Desc: Dry Iron, 1000W               
+2026-02-04 23:34:56,728 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:56,730 - INFO -   > Deactivated 349 other products from brand Panasonic
+2026-02-04 23:34:56,730 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:56,730 - INFO - [ 90/277] Ref: WABA1211-N                     | Desc: Socket 1G 13A                 
+2026-02-04 23:34:57,085 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:57,087 - INFO -   > Deactivated 350 other products from brand Panasonic
+2026-02-04 23:34:57,087 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:57,087 - INFO - [ 91/277] Ref: WABA1221-N                     | Desc: Socket 2G 13A                 
+2026-02-04 23:34:57,422 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:57,424 - INFO -   > Deactivated 351 other products from brand Panasonic
+2026-02-04 23:34:57,424 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:57,425 - INFO - [ 92/277] Ref: WABA1211R-N                    | Desc: Socket RED 1G 13A             
+2026-02-04 23:34:57,765 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:57,767 - INFO -   > Deactivated 352 other products from brand Panasonic
+2026-02-04 23:34:57,768 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:57,768 - INFO - [ 93/277] Ref: WABA1221R-N                    | Desc: Socket RED 2G 13A             
+2026-02-04 23:34:58,126 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:58,128 - INFO -   > Deactivated 353 other products from brand Panasonic
+2026-02-04 23:34:58,129 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:58,129 - INFO - [ 94/277] Ref: WABA1311-N                     | Desc: Round Socket 15A              
+2026-02-04 23:34:58,464 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:58,466 - INFO -   > Deactivated 354 other products from brand Panasonic
+2026-02-04 23:34:58,466 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:58,467 - INFO - [ 95/277] Ref: WABA1721-N                     | Desc: Multisocket 2G 6-13A          
+2026-02-04 23:34:58,804 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:58,806 - INFO -   > Deactivated 355 other products from brand Panasonic
+2026-02-04 23:34:58,806 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:58,806 - INFO - [ 96/277] Ref: WABA3010-N                     | Desc: Socket 1G DIN Type            
+2026-02-04 23:34:59,140 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:59,141 - INFO -   > Deactivated 356 other products from brand Panasonic
+2026-02-04 23:34:59,142 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:59,142 - INFO - [ 97/277] Ref: WABA3217-N                     | Desc: 1G CAT6 RJ45                  
+2026-02-04 23:34:59,476 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:59,479 - INFO -   > Deactivated 357 other products from brand Panasonic
+2026-02-04 23:34:59,479 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:59,480 - INFO - [ 98/277] Ref: WABA5012-N                     | Desc: Switch 1G 2W 10A              
+2026-02-04 23:34:59,815 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:34:59,817 - INFO -   > Deactivated 358 other products from brand Panasonic
+2026-02-04 23:34:59,817 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:34:59,818 - INFO - [ 99/277] Ref: WABA5022-N                     | Desc: Switch 2G 2W 10A              
+2026-02-04 23:35:00,150 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:00,152 - INFO -   > Deactivated 359 other products from brand Panasonic
+2026-02-04 23:35:00,153 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:00,153 - INFO - [100/277] Ref: WABA5032-N                     | Desc: Switch 3G 2W 10A              
+2026-02-04 23:35:00,491 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:00,493 - INFO -   > Deactivated 360 other products from brand Panasonic
+2026-02-04 23:35:00,494 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:00,494 - INFO - [101/277] Ref: WABA5092-N                     | Desc: Switch 4G 2W 10A              
+2026-02-04 23:35:00,823 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:00,825 - INFO -   > Deactivated 361 other products from brand Panasonic
+2026-02-04 23:35:00,825 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:00,826 - INFO - [102/277] Ref: WABA5303-N                     | Desc: Switch 1G 20A Ind             
+2026-02-04 23:35:01,159 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:01,161 - INFO -   > Deactivated 362 other products from brand Panasonic
+2026-02-04 23:35:01,161 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:01,161 - INFO - [103/277] Ref: WABA5313-N                     | Desc: Switch 1G 20A Heater          
+2026-02-04 23:35:01,498 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:01,500 - INFO -   > Deactivated 363 other products from brand Panasonic
+2026-02-04 23:35:01,500 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:01,500 - INFO - [104/277] Ref: WABA5323-N                     | Desc: Switch 1G 20A AC              
+2026-02-04 23:35:01,888 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:01,890 - INFO -   > Deactivated 364 other products from brand Panasonic
+2026-02-04 23:35:01,890 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:01,891 - INFO - [105/277] Ref: WABA5403-N                     | Desc: Switch 1G 45A Ind             
+2026-02-04 23:35:02,228 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:02,230 - INFO -   > Deactivated 365 other products from brand Panasonic
+2026-02-04 23:35:02,230 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:02,231 - INFO - [106/277] Ref: WABA5511-N                     | Desc: Switch 1G 1W Bell             
+2026-02-04 23:35:02,565 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:02,567 - INFO -   > Deactivated 366 other products from brand Panasonic
+2026-02-04 23:35:02,567 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:02,567 - INFO - [107/277] Ref: WABA6120-N                     | Desc: Switch 45A DP Cooker          
+2026-02-04 23:35:02,922 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:02,924 - INFO -   > Deactivated 367 other products from brand Panasonic
+2026-02-04 23:35:02,924 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:02,925 - INFO - [108/277] Ref: WABA8010-N                     | Desc: 1G Blank Plate                
+2026-02-04 23:35:03,277 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:03,278 - INFO -   > Deactivated 368 other products from brand Panasonic
+2026-02-04 23:35:03,279 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:03,279 - INFO - [109/277] Ref: WABA8020-N                     | Desc: 2G Blank Plate                
+2026-02-04 23:35:03,614 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:03,616 - INFO -   > Deactivated 369 other products from brand Panasonic
+2026-02-04 23:35:03,616 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:03,616 - INFO - [110/277] Ref: WDBA1211-N                     | Desc: Socket 1G 13A                 
+2026-02-04 23:35:03,953 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:03,955 - INFO -   > Deactivated 370 other products from brand Panasonic
+2026-02-04 23:35:03,955 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:03,955 - INFO - [111/277] Ref: WDBA1221-N                     | Desc: Socket 2G 13A                 
+2026-02-04 23:35:04,292 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:04,293 - INFO -   > Deactivated 371 other products from brand Panasonic
+2026-02-04 23:35:04,294 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:04,294 - INFO - [112/277] Ref: WDBA1311-N                     | Desc: Round Socket 15A              
+2026-02-04 23:35:04,644 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:04,646 - INFO -   > Deactivated 372 other products from brand Panasonic
+2026-02-04 23:35:04,647 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:04,647 - INFO - [113/277] Ref: WDBA1711-N                     | Desc: Multisocket 1G 6-13A          
+2026-02-04 23:35:04,989 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:04,991 - INFO -   > Deactivated 373 other products from brand Panasonic
+2026-02-04 23:35:04,991 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:04,992 - INFO - [114/277] Ref: WDBA1721-N                     | Desc: Multisocket 2G 6-13A          
+2026-02-04 23:35:05,336 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:05,338 - INFO -   > Deactivated 374 other products from brand Panasonic
+2026-02-04 23:35:05,338 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:05,339 - INFO - [115/277] Ref: WDBA5012-N                     | Desc: Switch 1G 2W 10A              
+2026-02-04 23:35:05,672 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:05,674 - INFO -   > Deactivated 375 other products from brand Panasonic
+2026-02-04 23:35:05,674 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:05,674 - INFO - [116/277] Ref: WDBA5022-N                     | Desc: Switch 2G 2W 10A              
+2026-02-04 23:35:06,016 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:06,018 - INFO -   > Deactivated 376 other products from brand Panasonic
+2026-02-04 23:35:06,018 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:06,019 - INFO - [117/277] Ref: WDBA5032-N                     | Desc: Switch 3G 2W 10A              
+2026-02-04 23:35:06,350 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:06,352 - INFO -   > Deactivated 377 other products from brand Panasonic
+2026-02-04 23:35:06,353 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:06,353 - INFO - [118/277] Ref: WDBA5092-N                     | Desc: Switch 4G 2W 10A              
+2026-02-04 23:35:06,686 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:06,688 - INFO -   > Deactivated 378 other products from brand Panasonic
+2026-02-04 23:35:06,688 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:06,689 - INFO - [119/277] Ref: WDBA5303-N                     | Desc: Switch 1G 20A Ind             
+2026-02-04 23:35:07,019 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:07,021 - INFO -   > Deactivated 379 other products from brand Panasonic
+2026-02-04 23:35:07,021 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:07,022 - INFO - [120/277] Ref: WDBA5313-N                     | Desc: Switch 1G 20A Heater          
+2026-02-04 23:35:07,354 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:07,356 - INFO -   > Deactivated 380 other products from brand Panasonic
+2026-02-04 23:35:07,356 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:07,356 - INFO - [121/277] Ref: WDBA5323-N                     | Desc: Switch 1G 20A AC              
+2026-02-04 23:35:07,687 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:07,689 - INFO -   > Deactivated 381 other products from brand Panasonic
+2026-02-04 23:35:07,689 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:07,689 - INFO - [122/277] Ref: WDBA5403-N                     | Desc: Switch 1G 45A Ind             
+2026-02-04 23:35:08,090 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:08,092 - INFO -   > Deactivated 382 other products from brand Panasonic
+2026-02-04 23:35:08,092 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:08,093 - INFO - [123/277] Ref: WDBA5511-N                     | Desc: Switch 1G 1W Bell             
+2026-02-04 23:35:08,467 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:08,470 - INFO -   > Deactivated 383 other products from brand Panasonic
+2026-02-04 23:35:08,470 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:08,470 - INFO - [124/277] Ref: WDBA6120-N                     | Desc: Switch 45A DP Cooker          
+2026-02-04 23:35:08,836 - INFO -   > Product cloned from brand: Panasonic
+2026-02-04 23:35:08,838 - INFO -   > Deactivated 384 other products from brand Panasonic
+2026-02-04 23:35:08,838 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:08,838 - INFO - [125/277] Ref: EXTENSION CORD WCHG255322W     | Desc:                               
+2026-02-04 23:35:09,146 - WARNING -   > No product found to clone from brand: MISC
+2026-02-04 23:35:09,146 - INFO -   > Brand 'MISC' not found in catalogue - creating brand template
+2026-02-04 23:35:09,148 - INFO -   > Deactivated 1 other products from brand MISC
+2026-02-04 23:35:09,148 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:09,148 - INFO - [126/277] Ref: SOLAR PANEL VBMS380AJ09        | Desc:                               
+2026-02-04 23:35:09,463 - WARNING -   > No product found to clone from brand: MISC
+2026-02-04 23:35:09,463 - INFO -   > Brand 'MISC' not found in catalogue - creating brand template
+2026-02-04 23:35:09,465 - INFO -   > Deactivated 2 other products from brand MISC
+2026-02-04 23:35:09,465 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:09,465 - INFO - [127/277] Ref: SPLITTER                       | Desc:                               
+2026-02-04 23:35:09,759 - WARNING -   > No product found to clone from brand: MISC
+2026-02-04 23:35:09,760 - INFO -   > Brand 'MISC' not found in catalogue - creating brand template
+2026-02-04 23:35:09,761 - INFO -   > Deactivated 3 other products from brand MISC
+2026-02-04 23:35:09,761 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:09,762 - INFO - [128/277] Ref: CHE-30                         | Desc:                               
+2026-02-04 23:35:10,054 - WARNING -   > No product found to clone from brand: MISC
+2026-02-04 23:35:10,055 - INFO -   > Brand 'MISC' not found in catalogue - creating brand template
+2026-02-04 23:35:10,057 - INFO -   > Deactivated 4 other products from brand MISC
+2026-02-04 23:35:10,057 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:10,057 - INFO - [129/277] Ref: KS 30AMPS (SAE)                | Desc:                               
+2026-02-04 23:35:10,335 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:10,337 - INFO -   > Deactivated 115 other products from brand KENSTAR
+2026-02-04 23:35:10,337 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:10,337 - INFO - [130/277] Ref: REFRON R22 GAS INDIA           | Desc:                               
+2026-02-04 23:35:10,628 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:10,631 - INFO -   > Deactivated 116 other products from brand KENSTAR
+2026-02-04 23:35:10,631 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:10,632 - INFO - [131/277] Ref: REFRON R410 GAS INDIA          | Desc:                               
+2026-02-04 23:35:10,917 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:10,919 - INFO -   > Deactivated 117 other products from brand KENSTAR
+2026-02-04 23:35:10,919 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:10,920 - INFO - [132/277] Ref: REFRON R407C GAS INDIA         | Desc:                               
+2026-02-04 23:35:11,198 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:11,199 - INFO -   > Deactivated 118 other products from brand KENSTAR
+2026-02-04 23:35:11,200 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:11,200 - INFO - [133/277] Ref: GAS MALAYSIA R32               | Desc:                               
+2026-02-04 23:35:11,473 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:11,475 - INFO -   > Deactivated 119 other products from brand KENSTAR
+2026-02-04 23:35:11,475 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:11,475 - INFO - [134/277] Ref: PIPING KIT 3M 1HP              | Desc:                               
+2026-02-04 23:35:11,756 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:11,758 - INFO -   > Deactivated 120 other products from brand KENSTAR
+2026-02-04 23:35:11,758 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:11,759 - INFO - [135/277] Ref: PIPING KIT 3M 1.5HP            | Desc:                               
+2026-02-04 23:35:12,037 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:12,039 - INFO -   > Deactivated 121 other products from brand KENSTAR
+2026-02-04 23:35:12,039 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:12,040 - INFO - [136/277] Ref: PIPING KIT 3M LOCAL 1HP        | Desc:                               
+2026-02-04 23:35:12,313 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:12,315 - INFO -   > Deactivated 122 other products from brand KENSTAR
+2026-02-04 23:35:12,315 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:12,315 - INFO - [137/277] Ref: PIPING KIT 3M LOCAL 1.5HP      | Desc:                               
+2026-02-04 23:35:12,588 - INFO -   > Product cloned from brand: KENSTAR
+2026-02-04 23:35:12,590 - INFO -   > Deactivated 123 other products from brand KENSTAR
+2026-02-04 23:35:12,590 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:12,590 - INFO - [138/277] Ref: FTNV25 / RNV25                 | Desc: 1HP, Fixed Speed, R410A, Optim
+2026-02-04 23:35:13,026 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:13,028 - INFO -   > Deactivated 31 other products from brand Daikin
+2026-02-04 23:35:13,028 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:13,028 - INFO - [139/277] Ref: FTNV35 / RNV35                 | Desc: 1.5HP, Fixed Speed, R410A, Opt
+2026-02-04 23:35:13,460 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:13,461 - INFO -   > Deactivated 32 other products from brand Daikin
+2026-02-04 23:35:13,462 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:13,462 - INFO - [140/277] Ref: FTNV50 / RNV50                 | Desc: 2HP, Fixed Speed, R410A, Optim
+2026-02-04 23:35:13,889 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:13,891 - INFO -   > Deactivated 33 other products from brand Daikin
+2026-02-04 23:35:13,891 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:13,891 - INFO - [141/277] Ref: FTNV60 / RNV60                 | Desc: 2.5HP, Fixed Speed, R410A, Opt
+2026-02-04 23:35:14,312 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:14,314 - INFO -   > Deactivated 34 other products from brand Daikin
+2026-02-04 23:35:14,314 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:14,314 - INFO - [142/277] Ref: FTN80AXV1 / RR7CGXV18          | Desc: 3HP, Fixed Speed, R410A, Optim
+2026-02-04 23:35:14,735 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:14,736 - INFO -   > Deactivated 35 other products from brand Daikin
+2026-02-04 23:35:14,737 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:14,737 - INFO - [143/277] Ref: FTKF25AV1 / RKF25AV1           | Desc: 1HP, Inverter, R32, Low Voltag
+2026-02-04 23:35:15,169 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:15,171 - INFO -   > Deactivated 36 other products from brand Daikin
+2026-02-04 23:35:15,171 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:15,171 - INFO - [144/277] Ref: FTKF35AV1 / RKF35AV1           | Desc: 1.5HP, Inverter, R32, Low Volt
+2026-02-04 23:35:15,602 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:15,604 - INFO -   > Deactivated 37 other products from brand Daikin
+2026-02-04 23:35:15,604 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:15,605 - INFO - [145/277] Ref: FTKF50AV1 / RKF50AV1           | Desc: 2HP, Inverter, R32, Low Voltag
+2026-02-04 23:35:16,056 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:16,058 - INFO -   > Deactivated 38 other products from brand Daikin
+2026-02-04 23:35:16,058 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:16,058 - INFO - [146/277] Ref: FTKF60AV1 / RKF60AV1           | Desc: 2.5HP, Inverter, R32, Low Volt
+2026-02-04 23:35:16,501 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:16,503 - INFO -   > Deactivated 39 other products from brand Daikin
+2026-02-04 23:35:16,503 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:16,503 - INFO - [147/277] Ref: GTQ25 / RQG25                  | Desc: 1HP, R32, Eco Friendly, Econo 
+2026-02-04 23:35:16,952 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:16,955 - INFO -   > Deactivated 40 other products from brand Daikin
+2026-02-04 23:35:16,955 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:16,955 - INFO - [148/277] Ref: GTQ35 / RQG35                  | Desc: 1.5HP, R32, Eco Friendly, Econ
+2026-02-04 23:35:17,442 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:17,444 - INFO -   > Deactivated 41 other products from brand Daikin
+2026-02-04 23:35:17,444 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:17,444 - INFO - [149/277] Ref: GTQ50 / RQG50                  | Desc: 2HP, R32, Eco Friendly, Econo 
+2026-02-04 23:35:17,884 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:17,886 - INFO -   > Deactivated 42 other products from brand Daikin
+2026-02-04 23:35:17,887 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:17,887 - INFO - [150/277] Ref: GTQ60 / RQG60                  | Desc: 2.5HP, R32, Eco Friendly, Econ
+2026-02-04 23:35:18,325 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:18,327 - INFO -   > Deactivated 43 other products from brand Daikin
+2026-02-04 23:35:18,327 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:18,327 - INFO - [151/277] Ref: GTKL25 / RKLG25                | Desc: 1HP, Inverter, R32, AVS free o
+2026-02-04 23:35:18,763 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:18,765 - INFO -   > Deactivated 44 other products from brand Daikin
+2026-02-04 23:35:18,765 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:18,766 - INFO - [152/277] Ref: GTKL35 / RKLG35                | Desc: 1.5HP, Inverter, R32, AVS free
+2026-02-04 23:35:19,194 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:19,196 - INFO -   > Deactivated 45 other products from brand Daikin
+2026-02-04 23:35:19,196 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:19,196 - INFO - [153/277] Ref: GTKL50 / RKLG50                | Desc: 2HP, Inverter, R32, AVS free o
+2026-02-04 23:35:19,628 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:19,630 - INFO -   > Deactivated 46 other products from brand Daikin
+2026-02-04 23:35:19,630 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:19,630 - INFO - [154/277] Ref: GTKL60 / RKLG60                | Desc: 2.5HP, Inverter, R32, AVS free
+2026-02-04 23:35:20,049 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:20,051 - INFO -   > Deactivated 47 other products from brand Daikin
+2026-02-04 23:35:20,051 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:20,052 - INFO - [155/277] Ref: FTXR50E / RXR50E               | Desc: 2HP, Premium Inverter, Intelli
+2026-02-04 23:35:20,479 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:20,481 - INFO -   > Deactivated 48 other products from brand Daikin
+2026-02-04 23:35:20,481 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:20,481 - INFO - [156/277] Ref: FTXR42E / RXR42E               | Desc: 1.5HP, Premium Inverter, Intel
+2026-02-04 23:35:20,922 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:20,924 - INFO -   > Deactivated 49 other products from brand Daikin
+2026-02-04 23:35:20,924 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:20,924 - INFO - [157/277] Ref: LTNZEQ09V1S9 / MNZEQ09V1SW9    | Desc: 1HP, Highly Efficient, Fixed S
+2026-02-04 23:35:21,358 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:21,359 - INFO -   > Deactivated 50 other products from brand Daikin
+2026-02-04 23:35:21,360 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:21,360 - INFO - [158/277] Ref: LTNZEQ12V1S9 / MNZEQ12V1SW10   | Desc: 1.5HP, Highly Efficient, Fixed
+2026-02-04 23:35:21,794 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:21,796 - INFO -   > Deactivated 51 other products from brand Daikin
+2026-02-04 23:35:21,797 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:21,797 - INFO - [159/277] Ref: LTNZEQ18V1S9 / MNZEQ18V1SW11   | Desc: 2HP, Highly Efficient, Fixed S
+2026-02-04 23:35:22,229 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:22,231 - INFO -   > Deactivated 52 other products from brand Daikin
+2026-02-04 23:35:22,231 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:22,231 - INFO - [160/277] Ref: LTNZEQ24V1S9 / MNZEQ24V1SW12   | Desc: 2.5HP, Highly Efficient, Fixed
+2026-02-04 23:35:22,674 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:22,676 - INFO -   > Deactivated 53 other products from brand Daikin
+2026-02-04 23:35:22,676 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:22,676 - INFO - [161/277] Ref: LXTZE09V1S9 / MXZEQ09V1SW9     | Desc: 1HP, Inverter, Sprint Compress
+2026-02-04 23:35:23,100 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:23,102 - INFO -   > Deactivated 54 other products from brand Daikin
+2026-02-04 23:35:23,102 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:23,102 - INFO - [162/277] Ref: LXTZE12V1S9 / MXZEQ12V1SW10    | Desc: 1.5HP, Inverter, Sprint Compre
+2026-02-04 23:35:23,568 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:23,570 - INFO -   > Deactivated 55 other products from brand Daikin
+2026-02-04 23:35:23,570 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:23,570 - INFO - [163/277] Ref: LXTZE18V1S9 / MXZEQ18V1SW11    | Desc: 2HP, Inverter, Sprint Compress
+2026-02-04 23:35:24,016 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:24,017 - INFO -   > Deactivated 56 other products from brand Daikin
+2026-02-04 23:35:24,018 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:24,018 - INFO - [164/277] Ref: LXTZE24V1S9 / MXZEQ24V1SW12    | Desc: 2.5HP, Inverter, Sprint Compre
+2026-02-04 23:35:24,458 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:24,459 - INFO -   > Deactivated 57 other products from brand Daikin
+2026-02-04 23:35:24,460 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:24,460 - INFO - [165/277] Ref: FCRN60 / RB60CGXV / BC50       | Desc: 2.5HP Cassette, 4 Way Air Disc
+2026-02-04 23:35:24,894 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:24,896 - INFO -   > Deactivated 58 other products from brand Daikin
+2026-02-04 23:35:24,896 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:24,896 - INFO - [166/277] Ref: FCRN71 / RR71CGXV / BC50       | Desc: 3HP Cassette, 4 Way Air Discha
+2026-02-04 23:35:25,323 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:25,324 - INFO -   > Deactivated 59 other products from brand Daikin
+2026-02-04 23:35:25,325 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:25,325 - INFO - [167/277] Ref: FCRN100 / RR100DG / BC50       | Desc: 4HP Cassette, 4 Way Air Discha
+2026-02-04 23:35:25,757 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:25,760 - INFO -   > Deactivated 60 other products from brand Daikin
+2026-02-04 23:35:25,760 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:25,760 - INFO - [168/277] Ref: FCRN125 / RR125DG / BC50       | Desc: 5HP Cassette, 4 Way Air Discha
+2026-02-04 23:35:26,211 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:26,213 - INFO -   > Deactivated 61 other products from brand Daikin
+2026-02-04 23:35:26,213 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:26,213 - INFO - [169/277] Ref: FDMRN71CXV / RR71CGXY          | Desc: 3HP, Concealed Duct, Powerful 
+2026-02-04 23:35:26,644 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:26,646 - INFO -   > Deactivated 62 other products from brand Daikin
+2026-02-04 23:35:26,646 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:26,646 - INFO - [170/277] Ref: FDMRN100CXV / RR100DGXV        | Desc: 4HP, Concealed Duct, Powerful 
+2026-02-04 23:35:27,074 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:27,076 - INFO -   > Deactivated 63 other products from brand Daikin
+2026-02-04 23:35:27,076 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:27,076 - INFO - [171/277] Ref: FDMRN125CXV / RR125DGXY        | Desc: 5HP, Concealed Duct, Powerful 
+2026-02-04 23:35:27,517 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:27,519 - INFO -   > Deactivated 64 other products from brand Daikin
+2026-02-04 23:35:27,519 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:27,519 - INFO - [172/277] Ref: FDMRN140CXV / RR140DGXY        | Desc: 6HP, Concealed Duct, Powerful 
+2026-02-04 23:35:27,949 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:27,951 - INFO -   > Deactivated 65 other products from brand Daikin
+2026-02-04 23:35:27,952 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:27,952 - INFO - [173/277] Ref: FCQF18ARV16 / RGVF18ASV16 / BY | Desc: 2HP, Cassette, 4 Way Air Disch
+2026-02-04 23:35:28,373 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:28,374 - INFO -   > Deactivated 66 other products from brand Daikin
+2026-02-04 23:35:28,375 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:28,375 - INFO - [174/277] Ref: FCQF24ARV16 / RGVF24ASV16 / BY | Desc: 2.5HP, Cassette, 4 Way Air Dis
+2026-02-04 23:35:28,834 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:28,836 - INFO -   > Deactivated 67 other products from brand Daikin
+2026-02-04 23:35:28,836 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:28,836 - INFO - [175/277] Ref: FCQF30ARV16 / RGVF30ASV16 / BY | Desc: 3HP, Cassette, 4 Way Air Disch
+2026-02-04 23:35:29,275 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:29,278 - INFO -   > Deactivated 68 other products from brand Daikin
+2026-02-04 23:35:29,278 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:29,278 - INFO - [176/277] Ref: FCQF36ARV16 / RGVF36ASV16 / BY | Desc: 4HP, Cassette, 4 Way Air Disch
+2026-02-04 23:35:29,709 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:29,711 - INFO -   > Deactivated 69 other products from brand Daikin
+2026-02-04 23:35:29,711 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:29,711 - INFO - [177/277] Ref: FCQF42ARV16 / RGVF42ASY16 / BY | Desc: 5HP, Cassette, 4 Way Air Disch
+2026-02-04 23:35:30,150 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:30,152 - INFO -   > Deactivated 70 other products from brand Daikin
+2026-02-04 23:35:30,152 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:30,152 - INFO - [178/277] Ref: FDBF12CRV16 / RGF12CRV16       | Desc: 1.5HP, Concealed Duct, 4 Speed
+2026-02-04 23:35:30,576 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:30,577 - INFO -   > Deactivated 71 other products from brand Daikin
+2026-02-04 23:35:30,578 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:30,578 - INFO - [179/277] Ref: FDBF18CRV16 / RGF18CRV16       | Desc: 2HP, Concealed Duct, 4 Speed M
+2026-02-04 23:35:31,008 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:31,010 - INFO -   > Deactivated 72 other products from brand Daikin
+2026-02-04 23:35:31,010 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:31,011 - INFO - [180/277] Ref: FDBF24CRV16 / RGF24CRV16       | Desc: 2.5HP, Concealed Duct, 4 Speed
+2026-02-04 23:35:31,443 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:31,445 - INFO -   > Deactivated 73 other products from brand Daikin
+2026-02-04 23:35:31,445 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:31,445 - INFO - [181/277] Ref: FDMF30CRV16 / RGF30CRV16       | Desc: 3HP, Concealed Duct, 4 Speed M
+2026-02-04 23:35:31,873 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:31,875 - INFO -   > Deactivated 74 other products from brand Daikin
+2026-02-04 23:35:31,875 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:31,876 - INFO - [182/277] Ref: FDMF36CRV16 / RGF36CRV16       | Desc: 4HP, Concealed Duct, 4 Speed M
+2026-02-04 23:35:32,300 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:32,302 - INFO -   > Deactivated 75 other products from brand Daikin
+2026-02-04 23:35:32,302 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:32,302 - INFO - [183/277] Ref: FDMF42CRV16 / RGF42CRY16       | Desc: 5HP, Concealed Duct, 4 Speed M
+2026-02-04 23:35:32,729 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:32,731 - INFO -   > Deactivated 76 other products from brand Daikin
+2026-02-04 23:35:32,732 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:32,732 - INFO - [184/277] Ref: FDMF48CRV16 / RGF48CRY16       | Desc: 6HP, Concealed Duct, 4 Speed M
+2026-02-04 23:35:33,162 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:33,164 - INFO -   > Deactivated 77 other products from brand Daikin
+2026-02-04 23:35:33,164 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:33,165 - INFO - [185/277] Ref: LXCYEQ12V1S / MXYEQ12V1SC      | Desc: 1.5HP, Inverter, R410A, 360° A
+2026-02-04 23:35:33,580 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:33,581 - INFO -   > Deactivated 78 other products from brand Daikin
+2026-02-04 23:35:33,582 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:33,582 - INFO - [186/277] Ref: LXCYEQ18V1S / MXYEQ18V1SC      | Desc: 2HP, Inverter, R410A, 360° Air
+2026-02-04 23:35:33,997 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:33,999 - INFO -   > Deactivated 79 other products from brand Daikin
+2026-02-04 23:35:33,999 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:33,999 - INFO - [187/277] Ref: LXCYEQ24V1S / MXYEQ24V1SC      | Desc: 2.5HP, Inverter, R410A, 360° A
+2026-02-04 23:35:34,428 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:34,430 - INFO -   > Deactivated 80 other products from brand Daikin
+2026-02-04 23:35:34,430 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:34,430 - INFO - [188/277] Ref: LXCYEQ36V1S / MXYEQ36V1SC      | Desc: 4HP, Inverter, R410A, 360° Air
+2026-02-04 23:35:34,845 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:34,847 - INFO -   > Deactivated 81 other products from brand Daikin
+2026-02-04 23:35:34,847 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:34,847 - INFO - [189/277] Ref: LXCYEQ48V1S / MXYEQ48Y1SC      | Desc: 6HP, Inverter, R410A, 360° Air
+2026-02-04 23:35:35,265 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:35,267 - INFO -   > Deactivated 82 other products from brand Daikin
+2026-02-04 23:35:35,268 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:35,268 - INFO - [190/277] Ref: LXDYEQ12V1S / MXYEQ12V1SD      | Desc: 1.5HP, Inverter, R410A, Slim D
+2026-02-04 23:35:35,685 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:35,687 - INFO -   > Deactivated 83 other products from brand Daikin
+2026-02-04 23:35:35,687 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:35,688 - INFO - [191/277] Ref: LXDYEQ18V1S / MXYEQ18V1SD      | Desc: 2HP, Inverter, R410A, Slim Des
+2026-02-04 23:35:36,120 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:36,122 - INFO -   > Deactivated 84 other products from brand Daikin
+2026-02-04 23:35:36,122 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:36,122 - INFO - [192/277] Ref: LXDYEQ24V1S / MXYEQ24V1SD      | Desc: 2.5HP, Inverter, R410A, Slim D
+2026-02-04 23:35:36,547 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:36,549 - INFO -   > Deactivated 85 other products from brand Daikin
+2026-02-04 23:35:36,549 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:36,549 - INFO - [193/277] Ref: LXDYEQ36V1S / MXYEQ36V1SD      | Desc: 4HP, Inverter, R410A, Slim Des
+2026-02-04 23:35:36,972 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:36,974 - INFO -   > Deactivated 86 other products from brand Daikin
+2026-02-04 23:35:36,974 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:36,974 - INFO - [194/277] Ref: LXDYEQ48V1S / MXYEQ48Y1SD      | Desc: 6HP, Inverter, R410A, Slim Des
+2026-02-04 23:35:37,404 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:37,406 - INFO -   > Deactivated 87 other products from brand Daikin
+2026-02-04 23:35:37,407 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:37,407 - INFO - [195/277] Ref: FVRN71AXV1                     | Desc: 3HP, R410A, Powerful Airflow  
+2026-02-04 23:35:37,831 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:37,833 - INFO -   > Deactivated 88 other products from brand Daikin
+2026-02-04 23:35:37,833 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:37,833 - INFO - [196/277] Ref: FVRN125AXV1                    | Desc: 5HP, R410A, Powerful Airflow  
+2026-02-04 23:35:38,259 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:38,261 - INFO -   > Deactivated 89 other products from brand Daikin
+2026-02-04 23:35:38,261 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:38,261 - INFO - [197/277] Ref: FVRN140AXV1 / RR140DGXY1       | Desc: 6HP, R410A, Powerful Airflow  
+2026-02-04 23:35:38,686 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:38,687 - INFO -   > Deactivated 90 other products from brand Daikin
+2026-02-04 23:35:38,688 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:38,688 - INFO - [198/277] Ref: FVGR10PV1 / RCN100HY18         | Desc: 10HP, R410A, Powerful Airflow 
+2026-02-04 23:35:39,108 - INFO -   > Product cloned from brand: Daikin
+2026-02-04 23:35:39,110 - INFO -   > Deactivated 91 other products from brand Daikin
+2026-02-04 23:35:39,110 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:39,110 - INFO - [199/277] Ref: KS-10VK7                       | Desc: 10HP, R410A, Powerful Airflow 
+2026-02-04 23:35:39,535 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:39,537 - INFO -   > Deactivated 124 other products from brand Kenstar
+2026-02-04 23:35:39,537 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:39,538 - INFO - [200/277] Ref: KS-T91W                        | Desc: 1HP, R410A                    
+2026-02-04 23:35:39,963 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:39,965 - INFO -   > Deactivated 125 other products from brand Kenstar
+2026-02-04 23:35:39,965 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:39,965 - INFO - [201/277] Ref: KS-T121W                       | Desc: 1.5HP, R410A                  
+2026-02-04 23:35:40,396 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:40,397 - INFO -   > Deactivated 126 other products from brand Kenstar
+2026-02-04 23:35:40,398 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:40,398 - INFO - [202/277] Ref: KS-T181W                       | Desc: 2HP, R410A                    
+2026-02-04 23:35:40,837 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:40,839 - INFO -   > Deactivated 127 other products from brand Kenstar
+2026-02-04 23:35:40,839 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:40,839 - INFO - [203/277] Ref: KS-9XFS                        | Desc: 1HP, HyperChill Cooling, Energ
+2026-02-04 23:35:41,279 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:41,281 - INFO -   > Deactivated 128 other products from brand Kenstar
+2026-02-04 23:35:41,281 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:41,281 - INFO - [204/277] Ref: KS-12XFS                       | Desc: 1.5HP, HyperChill Cooling, Ene
+2026-02-04 23:35:41,720 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:41,722 - INFO -   > Deactivated 129 other products from brand Kenstar
+2026-02-04 23:35:41,722 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:41,723 - INFO - [205/277] Ref: KS-18XFS                       | Desc: 2HP, HyperChill Cooling, Energ
+2026-02-04 23:35:42,149 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:42,151 - INFO -   > Deactivated 130 other products from brand Kenstar
+2026-02-04 23:35:42,151 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:42,152 - INFO - [206/277] Ref: KS-9MFS (without kit)          | Desc: 1HP Wall Split, R410A, Timer, 
+2026-02-04 23:35:42,573 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:42,575 - INFO -   > Deactivated 131 other products from brand Kenstar
+2026-02-04 23:35:42,575 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:42,576 - INFO - [207/277] Ref: KS-12MFS (without kit)         | Desc: 1.5HP Wall Split, R410A, Timer
+2026-02-04 23:35:43,001 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:43,003 - INFO -   > Deactivated 132 other products from brand Kenstar
+2026-02-04 23:35:43,003 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:43,004 - INFO - [208/277] Ref: KS-18MFS (without kit)         | Desc: 2HP Wall Split, R410A, Timer, 
+2026-02-04 23:35:43,433 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:43,435 - INFO -   > Deactivated 133 other products from brand Kenstar
+2026-02-04 23:35:43,436 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:43,436 - INFO - [209/277] Ref: KS-9TFS                        | Desc: 1HP Wall Split, R410A, Timer, 
+2026-02-04 23:35:43,875 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:43,877 - INFO -   > Deactivated 134 other products from brand Kenstar
+2026-02-04 23:35:43,877 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:43,878 - INFO - [210/277] Ref: KS-12TFS                       | Desc: 1.5HP Wall Split, R410A, Timer
+2026-02-04 23:35:44,308 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:44,310 - INFO -   > Deactivated 135 other products from brand Kenstar
+2026-02-04 23:35:44,310 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:44,311 - INFO - [211/277] Ref: KS-18TFS                       | Desc: 2HP Wall Split, R410A, Timer, 
+2026-02-04 23:35:44,732 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:44,734 - INFO -   > Deactivated 136 other products from brand Kenstar
+2026-02-04 23:35:44,734 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:44,735 - INFO - [212/277] Ref: KS-9MNV (without kit)          | Desc: 1HP, Inverter, R410A, Timer, L
+2026-02-04 23:35:45,177 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:45,179 - INFO -   > Deactivated 137 other products from brand Kenstar
+2026-02-04 23:35:45,179 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:45,179 - INFO - [213/277] Ref: KS-12MNV (without kit)         | Desc: 1.5HP, Inverter, R410A, Timer,
+2026-02-04 23:35:45,605 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:45,607 - INFO -   > Deactivated 138 other products from brand Kenstar
+2026-02-04 23:35:45,607 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:45,608 - INFO - [214/277] Ref: KS-18MNV (without kit)         | Desc: 2HP, Inverter, R410A, Timer, L
+2026-02-04 23:35:46,035 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:46,036 - INFO -   > Deactivated 139 other products from brand Kenstar
+2026-02-04 23:35:46,037 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:46,037 - INFO - [215/277] Ref: KS-9XNV                        | Desc: 1HP, Dynamic Inverter, Up To 5
+2026-02-04 23:35:46,464 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:46,466 - INFO -   > Deactivated 140 other products from brand Kenstar
+2026-02-04 23:35:46,466 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:46,466 - INFO - [216/277] Ref: KS-WMFL80NGJ                   | Desc: 8KG Front Loading Dynamic Inve
+2026-02-04 23:35:46,908 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:46,911 - INFO -   > Deactivated 141 other products from brand Kenstar
+2026-02-04 23:35:46,911 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:46,912 - INFO - [217/277] Ref: KS-WMFL100NGJ                  | Desc: 10KG Front Loading Dynamic Inv
+2026-02-04 23:35:47,345 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:47,348 - INFO -   > Deactivated 142 other products from brand Kenstar
+2026-02-04 23:35:47,348 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:47,348 - INFO - [218/277] Ref: KS-WD3120TCB                   | Desc: Top Loading Water Dispenser, w
+2026-02-04 23:35:47,791 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:47,793 - INFO -   > Deactivated 143 other products from brand Kenstar
+2026-02-04 23:35:47,793 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:47,794 - INFO - [219/277] Ref: KS-WD3350TFB                   | Desc: Top Loading Water Dispenser, w
+2026-02-04 23:35:48,231 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:48,233 - INFO -   > Deactivated 144 other products from brand Kenstar
+2026-02-04 23:35:48,233 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:48,233 - INFO - [220/277] Ref: KS-931S                        | Desc: 2.0L Electric Kettle, 1500W, S
+2026-02-04 23:35:48,659 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:48,661 - INFO -   > Deactivated 145 other products from brand Kenstar
+2026-02-04 23:35:48,661 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:48,662 - INFO - [221/277] Ref: KS-943B                        | Desc: 2.0L Electric Kettle, 1500W, M
+2026-02-04 23:35:49,082 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:49,084 - INFO -   > Deactivated 146 other products from brand Kenstar
+2026-02-04 23:35:49,084 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:49,084 - INFO - [222/277] Ref: KS-MW201M                      | Desc: 20L, Manual Control, Chrome Kn
+2026-02-04 23:35:49,511 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:49,513 - INFO -   > Deactivated 147 other products from brand Kenstar
+2026-02-04 23:35:49,514 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:49,514 - INFO - [223/277] Ref: KS-MW253D                      | Desc: 25L, Digital Display, 10 Power
+2026-02-04 23:35:49,939 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:49,940 - INFO -   > Deactivated 148 other products from brand Kenstar
+2026-02-04 23:35:49,941 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:49,941 - INFO - [224/277] Ref: KS-MWN255DG                    | Desc: Dynamic Inverter, 25L, Digital
+2026-02-04 23:35:50,390 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:50,392 - INFO -   > Deactivated 149 other products from brand Kenstar
+2026-02-04 23:35:50,392 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:50,392 - INFO - [225/277] Ref: KS-TV43FV5000A                 | Desc: 43 VIDAA, FHD Frameless Smart 
+2026-02-04 23:35:50,819 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:50,820 - INFO -   > Deactivated 150 other products from brand Kenstar
+2026-02-04 23:35:50,821 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:50,821 - INFO - [226/277] Ref: KS-TV50UV5000A                 | Desc: 50 VIDAA, UHD 4K Frameless Sma
+2026-02-04 23:35:51,262 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:51,264 - INFO -   > Deactivated 151 other products from brand Kenstar
+2026-02-04 23:35:51,264 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:51,264 - INFO - [227/277] Ref: KS-TV55UV5000A                 | Desc: 55 VIDAA, UHD 4K Frameless Sma
+2026-02-04 23:35:51,705 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:51,707 - INFO -   > Deactivated 152 other products from brand Kenstar
+2026-02-04 23:35:51,707 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:51,707 - INFO - [228/277] Ref: KS-TV65UV5000A                 | Desc: 65 VIDAA, UHD 4K Frameless Sma
+2026-02-04 23:35:52,134 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:52,136 - INFO -   > Deactivated 153 other products from brand Kenstar
+2026-02-04 23:35:52,136 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:52,136 - INFO - [229/277] Ref: KS-TV75UV5000A                 | Desc: 75 VIDAA, UHD 4K Frameless Sma
+2026-02-04 23:35:52,562 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:52,564 - INFO -   > Deactivated 154 other products from brand Kenstar
+2026-02-04 23:35:52,564 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:52,565 - INFO - [230/277] Ref: KS-TV55QV7000A                 | Desc: 55 VIDAA, QLED 4K Frameless Sm
+2026-02-04 23:35:53,018 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:53,020 - INFO -   > Deactivated 155 other products from brand Kenstar
+2026-02-04 23:35:53,021 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:53,021 - INFO - [231/277] Ref: KS-TV65QV7000A                 | Desc: 65 VIDAA, QLED 4K Frameless Sm
+2026-02-04 23:35:53,462 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:53,464 - INFO -   > Deactivated 156 other products from brand Kenstar
+2026-02-04 23:35:53,464 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:53,464 - INFO - [232/277] Ref: KS-TV75QV7000A                 | Desc: 75 VIDAA, QLED 4K Frameless Sm
+2026-02-04 23:35:53,927 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:53,929 - INFO -   > Deactivated 157 other products from brand Kenstar
+2026-02-04 23:35:53,929 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:53,929 - INFO - [233/277] Ref: KS-GCX5050-4S                  | Desc: 50x50, 4 Burner, Auto-Ignition
+2026-02-04 23:35:54,371 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:54,372 - INFO -   > Deactivated 158 other products from brand Kenstar
+2026-02-04 23:35:54,373 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:54,373 - INFO - [234/277] Ref: KS-GCX5050-4E                  | Desc: 50x50, 4 Burner, Auto-Ignition
+2026-02-04 23:35:54,794 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:54,796 - INFO -   > Deactivated 159 other products from brand Kenstar
+2026-02-04 23:35:54,796 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:54,796 - INFO - [235/277] Ref: KS-GCX5050-31S                 | Desc: 50x50, 3 Burner + 1 Electric H
+2026-02-04 23:35:55,227 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:55,229 - INFO -   > Deactivated 160 other products from brand Kenstar
+2026-02-04 23:35:55,229 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:55,229 - INFO - [236/277] Ref: KS-GCX5050-31E                 | Desc: 50x50, 3 Burner + 1 Electric H
+2026-02-04 23:35:55,666 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:55,668 - INFO -   > Deactivated 161 other products from brand Kenstar
+2026-02-04 23:35:55,668 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:55,669 - INFO - [237/277] Ref: KS-GCX6060-4S                  | Desc: 60x60, 4 Burner, Auto-Ignition
+2026-02-04 23:35:56,147 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:56,149 - INFO -   > Deactivated 162 other products from brand Kenstar
+2026-02-04 23:35:56,149 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:56,149 - INFO - [238/277] Ref: KS-GCX6060-4E                  | Desc: 60x60, 4 Burner, Auto-Ignition
+2026-02-04 23:35:56,595 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:56,596 - INFO -   > Deactivated 163 other products from brand Kenstar
+2026-02-04 23:35:56,597 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:56,597 - INFO - [239/277] Ref: KS-GCX6060-31S                 | Desc: 60x60, 3 Burner + 1 Electric H
+2026-02-04 23:35:57,058 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:57,060 - INFO -   > Deactivated 164 other products from brand Kenstar
+2026-02-04 23:35:57,060 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:57,060 - INFO - [240/277] Ref: KS-GCX6060-31E                 | Desc: 60x60, 3 Burner + 1 Electric H
+2026-02-04 23:35:57,510 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:57,512 - INFO -   > Deactivated 165 other products from brand Kenstar
+2026-02-04 23:35:57,512 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:57,513 - INFO - [241/277] Ref: KS-GCX6090-5S                  | Desc: 60x90, 5 Burner, Auto-Ignition
+2026-02-04 23:35:58,016 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:58,018 - INFO -   > Deactivated 166 other products from brand Kenstar
+2026-02-04 23:35:58,018 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:58,019 - INFO - [242/277] Ref: KS-GCX6090-42S                 | Desc: 60x90, 4 Burner + 2 Electric H
+2026-02-04 23:35:58,460 - INFO -   > Product cloned from brand: Kenstar
+2026-02-04 23:35:58,462 - INFO -   > Deactivated 167 other products from brand Kenstar
+2026-02-04 23:35:58,462 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:58,462 - INFO - [243/277] Ref: HW09CRYFB1-9FS                 | Desc: 1HP, Fixed Speed, with 3m Copp
+2026-02-04 23:35:58,900 - WARNING -   > No product found to clone from brand: Bluestar
+2026-02-04 23:35:58,901 - INFO -   > Brand 'Bluestar' not found in catalogue - creating brand template
+2026-02-04 23:35:58,903 - INFO -   > Deactivated 1 other products from brand Bluestar
+2026-02-04 23:35:58,903 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:58,903 - INFO - [244/277] Ref: HW12CRYFB1-12FS                | Desc: 1.5HP, Fixed Speed, with 3m Co
+2026-02-04 23:35:59,338 - WARNING -   > No product found to clone from brand: Bluestar
+2026-02-04 23:35:59,339 - INFO -   > Brand 'Bluestar' not found in catalogue - creating brand template
+2026-02-04 23:35:59,340 - INFO -   > Deactivated 2 other products from brand Bluestar
+2026-02-04 23:35:59,340 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:59,341 - INFO - [245/277] Ref: HW18CRYFB1-18FS                | Desc: 2HP, Fixed Speed, with 3m Copp
+2026-02-04 23:35:59,775 - WARNING -   > No product found to clone from brand: Bluestar
+2026-02-04 23:35:59,776 - INFO -   > Brand 'Bluestar' not found in catalogue - creating brand template
+2026-02-04 23:35:59,777 - INFO -   > Deactivated 3 other products from brand Bluestar
+2026-02-04 23:35:59,777 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:35:59,778 - INFO - [246/277] Ref: HW09CRYFBN1-9INV               | Desc: 1HP, Inverter, with 3m Copper 
+2026-02-04 23:36:00,205 - WARNING -   > No product found to clone from brand: Bluestar
+2026-02-04 23:36:00,206 - INFO -   > Brand 'Bluestar' not found in catalogue - creating brand template
+2026-02-04 23:36:00,207 - INFO -   > Deactivated 4 other products from brand Bluestar
+2026-02-04 23:36:00,207 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:00,208 - INFO - [247/277] Ref: HW12CRYFBN1-12INV              | Desc: 1.5HP, Inverter, with 3m Coppe
+2026-02-04 23:36:00,645 - WARNING -   > No product found to clone from brand: Bluestar
+2026-02-04 23:36:00,646 - INFO -   > Brand 'Bluestar' not found in catalogue - creating brand template
+2026-02-04 23:36:00,647 - INFO -   > Deactivated 5 other products from brand Bluestar
+2026-02-04 23:36:00,647 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:00,648 - INFO - [248/277] Ref: HW18CRYFBN1-18INV              | Desc: 2HP, Inverter, with 3m Copper 
+2026-02-04 23:36:01,081 - WARNING -   > No product found to clone from brand: Bluestar
+2026-02-04 23:36:01,081 - INFO -   > Brand 'Bluestar' not found in catalogue - creating brand template
+2026-02-04 23:36:01,083 - INFO -   > Deactivated 6 other products from brand Bluestar
+2026-02-04 23:36:01,083 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:01,083 - INFO - [249/277] Ref: NTV3200SLED-FL                 | Desc: 32 Smart, Android, 1GB RAM, 8G
+2026-02-04 23:36:01,507 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:01,508 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:01,509 - INFO -   > Deactivated 1 other products from brand NIKAI
+2026-02-04 23:36:01,510 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:01,510 - INFO - [250/277] Ref: NTV43SVDLEDN                   | Desc: 43 VIDAA, FHD, 1.5 GB RAM, 4GB
+2026-02-04 23:36:01,948 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:01,948 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:01,950 - INFO -   > Deactivated 2 other products from brand NIKAI
+2026-02-04 23:36:01,950 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:01,951 - INFO - [251/277] Ref: NIK50MEU4STN                   | Desc: 50 UHD SMART 4K LED TV, WebOS,
+2026-02-04 23:36:02,395 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:02,396 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:02,398 - INFO -   > Deactivated 3 other products from brand NIKAI
+2026-02-04 23:36:02,398 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:02,398 - INFO - [252/277] Ref: NIK55MEU4STN                   | Desc: 55 UHD SMART 4K LED TV, WebOS,
+2026-02-04 23:36:02,835 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:02,836 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:02,837 - INFO -   > Deactivated 4 other products from brand NIKAI
+2026-02-04 23:36:02,838 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:02,838 - INFO - [253/277] Ref: NIK65MEU4STN                   | Desc: 65 UHD SMART 4K LED TV, WebOS,
+2026-02-04 23:36:03,303 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:03,304 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:03,305 - INFO -   > Deactivated 5 other products from brand NIKAI
+2026-02-04 23:36:03,305 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:03,306 - INFO - [254/277] Ref: NIK75MEU4STN                   | Desc: 75 UHD SMART 4K LED TV, WebOS,
+2026-02-04 23:36:03,752 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:03,753 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:03,755 - INFO -   > Deactivated 6 other products from brand NIKAI
+2026-02-04 23:36:03,755 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:03,755 - INFO - [255/277] Ref: NIK85MEU4STN                   | Desc: 85 UHD SMART 4K LED TV, WebOS,
+2026-02-04 23:36:04,233 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:04,234 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:04,236 - INFO -   > Deactivated 7 other products from brand NIKAI
+2026-02-04 23:36:04,236 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:04,236 - INFO - [256/277] Ref: NSB100                         | Desc: Sound Bar 40W, Bluetooth, AUX 
+2026-02-04 23:36:04,686 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:04,687 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:04,688 - INFO -   > Deactivated 8 other products from brand NIKAI
+2026-02-04 23:36:04,689 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:04,689 - INFO - [257/277] Ref: NCM1210AX                      | Desc: Coffee Maker, Capacity: 12 cup
+2026-02-04 23:36:05,174 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:05,175 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:05,177 - INFO -   > Deactivated 9 other products from brand NIKAI
+2026-02-04 23:36:05,177 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:05,177 - INFO - [258/277] Ref: NT40RZ                         | Desc: Electric Oven, Timer, Rotisser
+2026-02-04 23:36:05,638 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:05,639 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:05,640 - INFO -   > Deactivated 10 other products from brand NIKAI
+2026-02-04 23:36:05,640 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:05,641 - INFO - [259/277] Ref: NB1700T3                       | Desc: 2 in 1 Blender, 1.5L Unbreakab
+2026-02-04 23:36:06,087 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:06,088 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:06,089 - INFO -   > Deactivated 11 other products from brand NIKAI
+2026-02-04 23:36:06,089 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:06,090 - INFO - [260/277] Ref: NB894                          | Desc: SS Blade, 3 Stainless Steel Ja
+2026-02-04 23:36:06,523 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:06,523 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:06,525 - INFO -   > Deactivated 12 other products from brand NIKAI
+2026-02-04 23:36:06,525 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:06,525 - INFO - [261/277] Ref: NAF338D2                       | Desc: Digital Air Fryer, 3.5L, Detac
+2026-02-04 23:36:06,948 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:06,949 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:06,950 - INFO -   > Deactivated 13 other products from brand NIKAI
+2026-02-04 23:36:06,950 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:06,951 - INFO - [262/277] Ref: ND1724X                        | Desc: Dry Iron, Gold Teflon Coated S
+2026-02-04 23:36:07,377 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:07,377 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:07,379 - INFO -   > Deactivated 14 other products from brand NIKAI
+2026-02-04 23:36:07,379 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:07,379 - INFO - [263/277] Ref: NSI909TSX                      | Desc: Steam-Dry-Spray Iron, Nano Cer
+2026-02-04 23:36:07,815 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:07,816 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:07,817 - INFO -   > Deactivated 15 other products from brand NIKAI
+2026-02-04 23:36:07,817 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:07,818 - INFO - [264/277] Ref: NSI707TS                       | Desc: Steam-Dry-Spray Iron, Nano Cer
+2026-02-04 23:36:08,247 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:08,248 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:08,250 - INFO -   > Deactivated 16 other products from brand NIKAI
+2026-02-04 23:36:08,250 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:08,250 - INFO - [265/277] Ref: NK420A                         | Desc: 1.7L Kettle, Stainless Steel, 
+2026-02-04 23:36:08,683 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:08,683 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:08,685 - INFO -   > Deactivated 17 other products from brand NIKAI
+2026-02-04 23:36:08,685 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:08,685 - INFO - [266/277] Ref: NK744P                         | Desc: 1.7L Kettle, Cordless, Auto Sh
+2026-02-04 23:36:09,108 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:09,109 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:09,110 - INFO -   > Deactivated 18 other products from brand NIKAI
+2026-02-04 23:36:09,111 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:09,111 - INFO - [267/277] Ref: NK323G                         | Desc: 1.7L Kettle, Spout Cover, Auto
+2026-02-04 23:36:09,535 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:09,536 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:09,537 - INFO -   > Deactivated 19 other products from brand NIKAI
+2026-02-04 23:36:09,537 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:09,538 - INFO - [268/277] Ref: NMO2010DB                      | Desc: 20L Microwave, 11 Power Level,
+2026-02-04 23:36:09,969 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:09,970 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:09,972 - INFO -   > Deactivated 20 other products from brand NIKAI
+2026-02-04 23:36:09,972 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:09,972 - INFO - [269/277] Ref: NMO515N9A                      | Desc: 20L Microwave, 5 Power Levels,
+2026-02-04 23:36:10,398 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:10,399 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:10,400 - INFO -   > Deactivated 21 other products from brand NIKAI
+2026-02-04 23:36:10,400 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:10,401 - INFO - [270/277] Ref: NBT555S1                       | Desc: 2 Slice Toaster, Cancel, Defro
+2026-02-04 23:36:10,832 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:10,833 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:10,834 - INFO -   > Deactivated 22 other products from brand NIKAI
+2026-02-04 23:36:10,834 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:10,835 - INFO - [271/277] Ref: NGT928A1                       | Desc: 4 Slice Sandwich Maker, Non-St
+2026-02-04 23:36:11,258 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:11,258 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:11,260 - INFO -   > Deactivated 23 other products from brand NIKAI
+2026-02-04 23:36:11,260 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:11,260 - INFO - [272/277] Ref: NVC350T                        | Desc: Vacuum Cleaner, Sponge Filter,
+2026-02-04 23:36:11,681 - WARNING -   > No product found to clone from brand: NIKAI
+2026-02-04 23:36:11,681 - INFO -   > Brand 'NIKAI' not found in catalogue - creating brand template
+2026-02-04 23:36:11,683 - INFO -   > Deactivated 24 other products from brand NIKAI
+2026-02-04 23:36:11,683 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:11,683 - INFO - [273/277] Ref: CKT-XHE 38.2                   | Desc:                               
+2026-02-04 23:36:11,961 - WARNING -   > No product found to clone from brand: Clivet
+2026-02-04 23:36:11,962 - INFO -   > Brand 'Clivet' not found in catalogue - creating brand template
+2026-02-04 23:36:11,963 - INFO -   > Deactivated 1 other products from brand Clivet
+2026-02-04 23:36:11,963 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:11,964 - INFO - [274/277] Ref: MRCT-125CWN1-R(C)              | Desc:                               
+2026-02-04 23:36:12,108 - INFO -   > Product cloned from brand: Midea
+2026-02-04 23:36:12,109 - INFO -   > Deactivated 144 other products from brand Midea
+2026-02-04 23:36:12,109 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:12,110 - INFO - [275/277] Ref: MRCT-200CWN1-R(C)              | Desc:                               
+2026-02-04 23:36:12,253 - INFO -   > Product cloned from brand: Midea
+2026-02-04 23:36:12,254 - INFO -   > Deactivated 145 other products from brand Midea
+2026-02-04 23:36:12,255 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:12,255 - INFO - [276/277] Ref: MRCT-250CWN1-R(C)              | Desc:                               
+2026-02-04 23:36:12,396 - INFO -   > Product cloned from brand: Midea
+2026-02-04 23:36:12,398 - INFO -   > Deactivated 146 other products from brand Midea
+2026-02-04 23:36:12,398 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:12,398 - INFO - [277/277] Ref: MRCT-300CWN1-R(C)              | Desc:                               
+2026-02-04 23:36:12,541 - INFO -   > Product cloned from brand: Midea
+2026-02-04 23:36:12,543 - INFO -   > Deactivated 147 other products from brand Midea
+2026-02-04 23:36:12,543 - INFO -   >> ADD: Product added (cloned or created for brand)
+2026-02-04 23:36:12,543 - INFO - 
+======================================================================
+2026-02-04 23:36:12,544 - INFO - PROCESSING SUMMARY
+2026-02-04 23:36:12,544 - INFO - ======================================================================
+2026-02-04 23:36:12,544 - INFO - Total Excel products processed: 277
+2026-02-04 23:36:12,544 - INFO -   - Updated existing: 7
+2026-02-04 23:36:12,544 - INFO -   - Added new: 270
+2026-02-04 23:36:12,545 - INFO -   - Could not match: 0
+2026-02-04 23:36:12,545 - INFO - Total products in final catalogue: 3918
+2026-02-04 23:36:12,545 - INFO - ======================================================================
+
+2026-02-04 23:36:12,701 - INFO - + Updated catalogue saved: Updated_Products.csv
+2026-02-04 23:36:12,702 - INFO - Process completed in 107.8 seconds!
+2026-02-04 23:36:12,702 - INFO - Output file: Updated_Products.csv
